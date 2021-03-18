@@ -1,0 +1,2 @@
+C:\Users\mklim\source\repos\8.2\Debug\8.2.exe
+C:\Users\mklim\source\repos\8.2\Debug\8.2.pdb
